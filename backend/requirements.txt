@@ -16,5 +16,5 @@ fastapi-users
 geopy
 python-dotenv
 services
-services.xray_service
+
 nibabel
